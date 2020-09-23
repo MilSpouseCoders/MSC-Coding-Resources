@@ -15,8 +15,6 @@
 - General questions or need help?
 
 
-<em>(needs recording or video here)</em>
-
 ## Add a Resource
 
 This [Google Sheets Doc](https://docs.google.com/spreadsheets/d/1IjvArhFKqEvIOPOxliU1pbQj7tX7ee9Uu5QrElUwrbY/edit?usp=sharing) contains a list of resources available to military spouses interested in the tech industry.
@@ -26,7 +24,6 @@ This [Google Sheets Doc](https://docs.google.com/spreadsheets/d/1IjvArhFKqEvIOPO
 4. Git add, commit, push, submit pull request
 5. The project maintainer will approve your PR or provide feedback on what to change
 
-<em>(needs recording or video here)</em>
 
 
 ## Close an Issue
