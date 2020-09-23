@@ -6,7 +6,8 @@ This project is hosted using GitHub pages here: https://milspousecoders.github.i
 [![Website Preview](dist/assets/img/Page_Screenshot.png)](https://milspousecoders.github.io/MSC-Coding-Resources/)
 
 
-For those completely new to GitHub, check out the resources [here](https://milspousecoders.github.io/MSC-Coding-Resources/learn-git.html)!.  Otherwise, head over to [CONTRIBUTING.md](/CONTRIBUTING.md)
+For those completely new to GitHub, check out the resources [here](https://milspousecoders.github.io/MSC-Coding-Resources/learn-git.html) and read the [MilSpouse Coders' Hacktoberfest Setup](https://github.com/MilSpouseCoders/Hacktoberfest_2020/blob/master/SETUP.md)!  
+To contribute, head over to [CONTRIBUTING.md](/CONTRIBUTING.md)
 
 
 ## Feedback
